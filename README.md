@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @vavriklukas
-- 📮 tt & ig: @lukasvavrik_
-
-
-- ✨ nevermind, just messin' around
+## 👋 Hi, I’m @vavriklukas
+📮 tt & ig: @lukasvavrik_ <br>
+✨ nevermind, just messin' around
